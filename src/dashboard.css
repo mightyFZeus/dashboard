@@ -1,0 +1,44 @@
+body{
+    background:black ;
+    color: whitesmoke;
+    font-family: 'Raleway', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,500;1,500&display=swap');
+
+.widgetWrap {
+    background: #2a2a2a;
+}
+
+.widgetTitle {
+    border-bottom: 1px solid #694949;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 10px 10 px;
+}
+
+.value {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: left;
+    padding: 0px 2px;
+    line-height: 100%;
+}
+
+.description {
+    text-align: left;
+    font-size: 12px;
+    padding-left: 13px;
+    padding-bottom: 10px;
+}
+
+.widgetValue {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+text{
+    fill:white
+}
